@@ -1,6 +1,7 @@
 MRuby::Gem::Specification.new('mruby-hs-regexp') do |spec|
   spec.license = 'BSD'
   spec.authors = 'Masamitsu MURASE'
+  spec.summary = "light-weight regular expression (Henry Spencer's regular expression)"
  
   # Add compile flags
   # spec.cc.flags << ''
